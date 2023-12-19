@@ -1,0 +1,5 @@
+0 Animals
+1 Cartoon
+2 Mask Face
+3 Plants
+4 Valid Face

@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+
+# IDE or editor files
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Other generated files or sensitive data
+*.env
+*.log
