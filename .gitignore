@@ -10,6 +10,8 @@
 *.pyo
 __pycache__/
 
+# modelMuka2249174.h5
+
 # Other generated files or sensitive data
 *.env
 *.log
